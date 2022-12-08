@@ -11,3 +11,8 @@ if __name__ == "__main__":
     for elem in y:
         c += elem+1
     print("Sum when increasing each number by one=", c)
+
+
+    ### I coded more code
+    y =10
+    y = 10+1
