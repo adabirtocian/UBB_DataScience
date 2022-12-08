@@ -16,3 +16,7 @@ if __name__ == "__main__":
     ### I coded more code
     y =10
     y = 10+1
+
+    ## more code
+    if 10 % 2 == 0:
+        print("Yes")
